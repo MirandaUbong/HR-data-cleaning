@@ -1,5 +1,5 @@
 # HR-data-cleaning
-This is an exploration project that provided answers to the following business questions:
+This is an exploratory HR data cleaning project using SQL, that provided answers to the following business questions:
 
 Q1: WHAT IS THE CURRENT TOTAL EMPLOYEE NUMBER BY GENDER IN THE COMPANY?
 
