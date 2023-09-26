@@ -1,5 +1,6 @@
 # HR-data-cleaning
-This is an exploration project that provided answers to the following business questions
+This is an exploration project that provided answers to the following business questions:
+
 Q1: WHAT IS THE CURRENT TOTAL EMPLOYEE NUMBER BY GENDER IN THE COMPANY?
 Q2: WHAT IS THE CURRENT TOTAL EMPLOYEE NUMBER BY RACE/ETHINCITY IN THE COMPANY?
 Q3: WHAT IS THE AGE DISTRIBUTION OF EMPLOYEES IN THE COMPANY?
